@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÅùúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™ùåúÿÿÿÿ
+\
+java:S1128"ARemove this unused import 'Priority_queue.AbstractPriorityQueue'.(Ö²«ûÿÿÿÿ
+J
+java:S3740	"/Provide the parametrized type for this generic.(öıã şÿÿÿÿ
+E
+java:S3740
+"/Provide the parametrized type for this generic.(ËÑäà
+J
+java:S3740"/Provide the parametrized type for this generic.(Ùƒìæşÿÿÿÿ

@@ -1,0 +1,11 @@
+
+c
+java:S1192
+"FDefine a constant instead of duplicating this literal "Derek" 3 times.(¼ıû„8Ï¯ºú.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼˜òû
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(Û º´8È•Áú.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(è¾ÖÇùÿÿÿÿ8şè¼ú.
+Q
+java:S2864."4Iterate over the "entrySet" instead of the "keySet".(„Ş´¥8Œâ²ú.
+c
+java:S1192"FDefine a constant instead of duplicating this literal "Jones" 3 times.(—Ôªñ8şè¼ú.

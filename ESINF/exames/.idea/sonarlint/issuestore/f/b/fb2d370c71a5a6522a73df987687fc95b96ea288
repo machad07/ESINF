@@ -1,0 +1,21 @@
+
+u
+java:S3012Å"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(æ·» úÿÿÿÿ
+f
+java:S1206»"PThis class overrides "equals()" and should therefore also override "hashCode()".(ã¥2
+p
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(şµì
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(äØİıÿÿÿÿ
+=
+java:S1168ñ"&Return an empty array instead of null.(¥¹ï
+]
+java:S1126Ê"AReplace this if-then-else statement by a single return statement.(ºšŞÅùÿÿÿÿ
+K
+java:S1066ê"/Merge this if statement with the enclosing one.(ûË Ïşÿÿÿÿ
+j
+java:S2975£"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+_
+java:S1182£"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+o
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê¬æ

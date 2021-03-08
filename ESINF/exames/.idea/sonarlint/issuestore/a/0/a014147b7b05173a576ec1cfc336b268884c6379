@@ -1,0 +1,18 @@
+
+‰
+java:S1130¥"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Â¯œ¢şÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ô¬Í
+j
+java:S2975Ç"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(í¾Ü©
+_
+java:S1182Ç"HUse super.clone() to create and seed the cloned instance to be returned.(í¾Ü©
+J
+java:S1066n"/Merge this if statement with the enclosing one.(Î¸Üöøÿÿÿÿ
+7
+java:S1116x"Remove this empty statement.(ôŸìúÿÿÿÿ
+p
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(Âõª
+3
+java:S1643À"Use a StringBuilder instead.(‹Šëø
+2
+java:S1643¿"Use a StringBuilder instead.(’³Õ1

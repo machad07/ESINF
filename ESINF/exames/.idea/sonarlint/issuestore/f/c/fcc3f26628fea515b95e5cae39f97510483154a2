@@ -1,0 +1,33 @@
+
+L
+java:S1128
+"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8Î´û.
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Î´û.
+n
+java:S1192""SDefine a constant instead of duplicating this literal "Not supported yet." 9 times.(³È‹—ıÿÿÿÿ
+J
+java:S1144E"/Remove this unused private "desSubtree" method.(ºÊ‘ùÿÿÿÿ
+E
+java:S1144A"/Remove this unused private "ascSubtree" method.(Ğ±øÅ
+<
+java:S1172A"&Remove these unused method parameters.(Ğ±øÅ
+G
+java:S1144R",Remove this unused private "copyRec" method.(¬ş¾µüÿÿÿÿ
+_
+java:S1128"=Remove this unused import 'java.util.NoSuchElementException'.(®“ÿéúÿÿÿÿ8Î´û.
+O
+java:S1144_"4Remove this unused private "numNodesByLevel" method.(‚¶èÖÿÿÿÿÿ
+A
+java:S1172_"&Remove these unused method parameters.(‚¶èÖÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õúü§
+P
+java:S1128	".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Î´û.
+A
+java:S1172E"&Remove these unused method parameters.(ºÊ‘ùÿÿÿÿ
+F
+java:S1172R"+Remove this unused method parameter "node".(¬ş¾µüÿÿÿÿ
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Î´û.
+N
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8Î´û.

@@ -1,0 +1,11 @@
+
+C
+java:S1659,"!Declare "res" on a separate line.(ÉÄÃæøÿÿÿÿ8áÑè¬ú.
+c
+java:S1192"FDefine a constant instead of duplicating this literal "carro" 3 times.(Öûì™8×ã×©ú.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İæ³œøÿÿÿÿ8Ãøš»û.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À•ğ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ş‹¾›ùÿÿÿÿ8õ¢é¬ú.
+A
+java:S1659,"Declare "j" on a separate line.(ÉÄÃæøÿÿÿÿ8áÑè¬ú.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŠôÅûÿÿÿÿ8¤‘ç¬ú.

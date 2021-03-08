@@ -1,0 +1,13 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È§³Ğ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ—ı…
+Q
+java:S1066#"/Merge this if statement with the enclosing one.(Êø–Ûùÿÿÿÿ8Á‚à†ú.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷âÀüÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö„ïøÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È§³Ğ
+K
+java:S1854"5Remove this useless assignment to local variable "D".(æ—ı…
+<
+java:S1481"&Remove this unused "D" local variable.(æ—ı…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òëŠùÿÿÿÿ

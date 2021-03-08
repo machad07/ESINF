@@ -1,0 +1,11 @@
+
+n
+java:S1192#"SDefine a constant instead of duplicating this literal "Not supported yet." 4 times.(³È‹—ıÿÿÿÿ
+F
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ1
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Û×‰‹
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(•º£™ıÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ®êıÿÿÿÿ

@@ -1,0 +1,22 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é…ËØ
+n
+java:S1192>"SDefine a constant instead of duplicating this literal "Not supported yet." 3 times.(³È‹—ıÿÿÿÿ
+‡
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(é…ËØ
+c	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ï’¾
+Œ
+java:S1319="qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(Á€¥¤ùÿÿÿÿ
+h	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á€¥¤ùÿÿÿÿ
+t
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊÂÔ®şÿÿÿÿ
+E
+java:S1066,"/Merge this if statement with the enclosing one.(éÁÜ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(’®à×
+A
+java:S1168 "+Return an empty collection instead of null.(¥¹ï
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+o
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼£¤ö

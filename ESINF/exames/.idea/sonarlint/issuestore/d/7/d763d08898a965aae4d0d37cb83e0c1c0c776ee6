@@ -1,0 +1,4 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(πÙ¨Õ
+}
+java:S1130"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(ﬁê∫’
