@@ -1,0 +1,40 @@
+
+‡
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(¦Ÿß°
+Œ
+java:S1319A"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(¿¸ûÿÿÿÿ
+‹
+java:S1319["pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(´øêŸûÿÿÿÿ
+‹
+java:S1319"uThe type of the "shortPath" object should be an interface such as "List" rather than the implementation "LinkedList".(£ìŞö
+Œ
+java:S1319…"pThe type of the "paths" object should be an interface such as "List" rather than the implementation "ArrayList".(œò½Œùÿÿÿÿ
+Œ
+java:S1319…"pThe type of the "dists" object should be an interface such as "List" rather than the implementation "ArrayList".(œò½Œùÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(»ÂÜ
+n
+java:S11929"SDefine a constant instead of duplicating this literal "Not supported yet." 8 times.(³È‹—ıÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜
+P
+java:S1118":Add a private constructor to hide the implicit public one.(’®à×
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ÿß°
+A
+java:S1168"+Return an empty collection instead of null.(Ÿ£¡İ
+S
+java:S1197"8Move the array designator from the variable to the type.(ìƒ¸‡ıÿÿÿÿ
+h	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ã©Ùşÿÿÿÿ
+A
+java:S11727"&Remove these unused method parameters.(¢ã©Ùşÿÿÿÿ
+h	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¸ûÿÿÿÿ
+<
+java:S1172O"&Remove these unused method parameters.(–¶€ä
+8
+java:S2326"E is not used in the method.(­——¾ıÿÿÿÿ
+P
+java:S11447"5Remove this unused private "DepthFirstSearch" method.(¢ã©Ùşÿÿÿÿ
+C
+java:S1144O"-Remove this unused private "allPaths" method.(–¶€ä
+H
+java:S1144",Remove this unused private "revPath" method.(­——¾ıÿÿÿÿ
